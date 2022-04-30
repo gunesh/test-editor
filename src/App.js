@@ -35,7 +35,7 @@ export default function App() {
   console.log(tmp);
   return (
     <div>
-      <h1>Good Morning Xoriant!</h1>
+      <h1>Good Morning!</h1>
     </div>
   );
 }
